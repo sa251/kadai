@@ -82,7 +82,7 @@ main {
 
 .introduction {
   width: 70%;
-  height: 650px;
+  /* height: 600px; */
   background-color: #fff;
   border-radius: 10px;
   padding: 0 10px 0 10px;
